@@ -1,16 +1,15 @@
 # "Pet shelter" MERN exam project
 # 🐶🐱🐰🦊🐻🐼🐨🐯🦁🐮🐷🐸🐵
+"Pet shelter" is ReactJS ⚛️ app, which allows user add animals to shelter db, and change their properties later. This is phone friendly app. 
 
-## server side dependencies:
-* "cors": "^2.8.5",
-* "express": "^4.17.1",
-* "mongoose": "^5.9.25",
-* "nodemon": "^2.0.4"
+# Deployed with AWS ✅
+http://18.217.90.211/
 
-## client side dependencies:
-* "@reach/router": "^1.3.4",
-* "axios": "^0.19.2",
-* "bootstrap": "^4.5.0",
+## Technology used 
+- Front end: ReactJS, @reach/router, axios, bootstrap
+- Back end: NodeJS, express, cors, nodemon
+- MongoDB: mongoose
+- AWS
 
 ## install: 
 ```
@@ -23,5 +22,9 @@ npm start
 cd client 
 npm start
 ```
+
+## Screenshot
+![](./client/public/demo.png)
+
 ## author:
 IURII LYTVYN
