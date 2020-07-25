@@ -1,0 +1,9 @@
+html {
+    /* background-color: #343a40; */
+  }
+  
+  .wrapper{
+    height: 200vh;
+    margin: 0 auto;
+    background-color: #343a40;
+  }
