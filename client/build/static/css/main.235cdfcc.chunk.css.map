@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAIE,SACE,YAAa,CACb,aAAc,CACd,wBACF","file":"main.235cdfcc.chunk.css","sourcesContent":["html {\n    /* background-color: #343a40; */\n  }\n  \n  .wrapper{\n    height: 200vh;\n    margin: 0 auto;\n    background-color: #343a40;\n  }"]}
